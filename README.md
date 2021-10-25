@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcMartinez25 and I'm a software developer working in OKC!
+- 👋 Hi, I’m @MarcMartinez25 and I'm a software engineer working in OKC!
 - 👀 I’m interested in Rock Climbing and Flying
 - 🌱 I’m currently working on rebuilding my website
 <!---
