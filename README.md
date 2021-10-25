@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcMartinez25 and I'm a software developer working in OKC!
-- 👀 I’m interested in Rock Climbing, Flying, and Golfing
+- 👀 I’m interested in Rock Climbing and Flying
 - 🌱 I’m currently working on rebuilding my website
 <!---
 MarcMartinez25/MarcMartinez25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
