@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rebuilding my website**
 
-- 🌱 I’m currently learning **IOS Development and Django**
+- 🌱 I’m currently learning **golang**
 
 - 💬 Ask me about **Flying, Climbing, and Film Photography**
 
