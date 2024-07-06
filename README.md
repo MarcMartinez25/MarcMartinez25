@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate Software Engineer living in OKC</h3>
 
-- 🔭 I’m currently working on **Rebuilding my website**
+- 🔭 Now you may look at my github and think "Where are all his projects"... Well I rarely have time to work on personal projects. Most of my development is done in a professional setting. But trust me, I work on projects when I get a chance and they all revolve around aviaition, running, cycling, or any other random fixation I get on!!!
 
 - 🌱 I’m currently learning **golang**
 
-- 💬 Ask me about **Flying, Climbing, and Film Photography**
+- 💬 Ask me about **Flying, Climbing, Cycling, and Film Photography**
 
-- ⚡ Fun fact **I'm a private pilot and I have summited many mountains like the Grand Tetons, Rainier, and Mt. Shuksan**
+- ⚡ Fun facts:
+  - **I'm a private pilot.**
+  - **I have summited many mountains like the Grand Tetons, Rainier, and Mt. Shuksan.**
+  - **I am running in one of the six abbott world marathons this year!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
