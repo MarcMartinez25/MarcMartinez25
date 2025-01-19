@@ -3,7 +3,9 @@
 
 - 🔭 Now you may look at my github and think "Where are all his projects"... Well I rarely have time to work on personal projects. Most of my development is done in a professional setting. But trust me, I work on projects when I get a chance and they all revolve around aviaition, running, cycling, or any other random fixation I get on!!!
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **golang** and **IOS Development**
+
+- 🌱 I’m currently training for the **Leadville Marathon**
 
 - 💬 Ask me about **Flying, Climbing, Cycling, and Film Photography**
 
