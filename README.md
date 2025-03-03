@@ -11,7 +11,7 @@
 
 - ⚡ Fun facts:
   - **I'm a private pilot.**
-  - **I have summited many mountains like the Grand Tetons, Rainier, and Mt. Shuksan.**
+  - **I have summited many mountains like the Grand Tetons, and Mt. Shuksan.**
   - **I ran the 2024 Berlin Marathon with a time of 5:01:22!**
 
 <h3 align="left">Connect with me:</h3>
