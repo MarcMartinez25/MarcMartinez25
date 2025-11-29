@@ -5,14 +5,13 @@
 
 - 🌱 I’m currently learning **golang** and **IOS Development**
 
-- 🌱 I’m currently training for the **Leadville Marathon**
+- 🌱 I’m currently training for the **Zion 100 Ultra-marathon**
 
-- 💬 Ask me about **Flying, Climbing, Cycling, and Film Photography**
+- 💬 Ask me about **Flying, Running, Cycling, and Film Photography**
 
 - ⚡ Fun facts:
   - **I'm a private pilot.**
   - **I have summited many mountains like the Grand Tetons, and Mt. Shuksan.**
-  - **I ran the 2024 Berlin Marathon with a time of 5:01:22!**
 
 <h3 align="left">Languages and Tools:</h3>
 
